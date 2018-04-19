@@ -1,0 +1,26 @@
+.colorA {
+    background-color: yellow;
+    border-radius: 3px;
+    border: solid black 1px;
+    width: 70px;
+    height: 31px;
+    color: darkblue;
+    font-weight: bold;
+}
+.colorA:hover{
+    box-shadow: 3px 3px darkmagenta;
+    border: solid 1.5px;
+}
+.colorB {
+    background-color: royalblue;
+    border-radius: 3px;
+    border: solid white 1px;
+    width: 70px;
+    height: 31px;
+    font-weight: bold;
+    color: yellow;
+}
+.colorB:hover{
+    box-shadow: 3px 3px darkmagenta;
+    border: solid 1.5px;
+}
